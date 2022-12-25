@@ -1,0 +1,2 @@
+# voice_denoising_by_automated_encoder
+Tensorflow2（Keras）でオートエンコーダーによる音声のノイズ除去にチャレンジ
